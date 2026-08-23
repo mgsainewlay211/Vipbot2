@@ -10,7 +10,7 @@ import sqlite3
 from contextlib import contextmanager
 
 # --- Configuration ---
-BOT_TOKEN = "8783854836:AAGI2MFohivkcFkxufOd6MiIpI70Jz2ULnI"
+BOT_TOKEN = "8783854836:AAEySqFAURH3Ick9PAHv6suWJTNFLv757Pc"
 ADMIN_IDS = ["7047836664", "8320683349"]
 FORWARD_CHANNEL = "@primekenobot"
 
